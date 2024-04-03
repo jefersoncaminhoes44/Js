@@ -1,0 +1,4 @@
+let xMaluf = 10;
+let yMaluf = 05;
+somar = xMaluf / yMaluf
+conole.log(somar)
